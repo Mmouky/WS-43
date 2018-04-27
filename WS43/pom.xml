@@ -22,4 +22,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>WS.controller</module>
+  	<module>WS.model</module>
+  	<module>WS.view</module>
+  	<module>WS.contract</module>
+  	<module>WS.main</module>
+  </modules>
 </project>
